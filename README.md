@@ -22,4 +22,5 @@ It's a tutor website
 
 **Client:** Html,Css,Bootstarp,Django
 
+![Screenshot (52)](https://github.com/Arghadyati/Django_tutor_website/assets/113815713/1b7a8666-6c1d-4ba9-b89a-7cba0be80cc9)
 
